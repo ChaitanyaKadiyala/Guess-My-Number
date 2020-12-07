@@ -1,1 +1,3 @@
 # Guess-My-Number
+
+GAME DEVELOPED IN JAVA SCRIPT
